@@ -6,3 +6,7 @@ var ready = (callback) => {
 ready(() => {
     document.querySelector(".header").style.height = window.innerHeight + "px";
 })
+
+function playAudio(audio) {
+    new Audio(audio).play();
+}
