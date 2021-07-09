@@ -76,13 +76,17 @@ body {
 }
 
 h1 {
-    color: #fff
+    color: #fff;
 }
 
 h2 {
-    color: #fff
+    color: #fff;
 }
 
 h3 {
-    color: #fff
+    color: #fff;
+}
+
+footer {
+    position: center;
 }
