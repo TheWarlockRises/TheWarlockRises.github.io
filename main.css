@@ -28,6 +28,7 @@ body {
 
 .header {
     background-image: url('header-background.jpg');
+    color: #fff;
     background-size: cover;
     background-position: center;
     position: relative;
